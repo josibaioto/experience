@@ -1,0 +1,30 @@
+p
+#title_I am
+ {
+    color: rgb(94, 56, 56);
+}
+
+#Lista_innamorata
+.text_blue {
+    color: rgb(29, 77, 77);
+}
+
+p { 
+   color:blue; 
+}
+
+list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+<style>
+. {
+  background-color: light_green;
+  color: white;
+  border: 3px solid black;
+  margin: 20px;
+  padding: 20px;
+}
