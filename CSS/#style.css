@@ -13,7 +13,8 @@ p {
    color:blue; 
 }
 
-list {
+#list 
+{
     display: flex;
     align-items: center;
     justify-content: center;
